@@ -104,28 +104,28 @@ header{
 }
 
 .nav-link-index{
-    background: url('/assets/img/icons/apple.svg') center no-repeat;
+    background: url('https://Albert-off.github.io/pordz2index/assets/img/icons/apple.svg') center no-repeat;
     display: block;
     height: 44px;
     width: 1.6rem;
 }
 
 .nav-link-search{
-    background: url('/assets/img/icons/search.svg') center no-repeat;
+    background: url('https://Albert-off.github.io/pordz2index/assets/img/icons/search.svg') center no-repeat;
     display: block;
     height: 44px;
     width: 1.6rem;
 }
 
 .nav-link-bag{
-    background: url('/assets/img/icons/bag.svg') center no-repeat;
+    background: url('https://Albert-off.github.io/pordz2index/assets/img/icons/bag.svg') center no-repeat;
     display: block;
     height: 44px;
     width: 1.4rem;
 }
 
 .link-close{
-    background: url('/assets/img/icons/close.svg') center no-repeat;
+    background: url('https://Albert-off.github.io/pordz2index/assets/img/icons/close.svg') center no-repeat;
     display: block;
     height: 44px;
     width: 1.6rem;
